@@ -6,7 +6,7 @@
     "eslint": "^5.4.0",
     "mocha": "^5.2.0",
     "spectron": "^3.8.0",
-    "electron": "3.0.10"
+    "electron": "4.0.0"
   },
   "engines": {
     "node": ">=9.2.0"
