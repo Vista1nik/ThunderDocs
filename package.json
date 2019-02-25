@@ -18,6 +18,6 @@
   },
   "devDependencies": {
     "electron-builder": "^20.38.4",
-    "electron-packager": "^13.0.0"
+    "electron-packager": "^13.1.0"
   }
 }
