@@ -21,7 +21,7 @@
   "devDependencies": {
     "electron": "^4",
     "electron-builder": "^20.43.0",
-    "electron-packager": "^13.0.0"
+    "electron-packager": "^14.0.2"
   },
   "build": {
     "appId": "me.vista1nik.thunderdocs",     
