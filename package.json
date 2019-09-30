@@ -6,7 +6,7 @@
   "description": "Unofficial Google Docs app.",
   "dependencies": {
     "eslint": "^5.4.0",
-    "mocha": "^5.2.0",
+    "mocha": "^6.2.1",
     "spectron": "^3.8.0"
   },
   "engines": {
