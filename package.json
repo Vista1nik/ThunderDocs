@@ -19,7 +19,7 @@
     "build-snap": "build --linux snap"
   },
   "devDependencies": {
-    "electron": "^4",
+    "electron": "^8",
     "electron-builder": "^20.43.0",
     "electron-packager": "^13.0.0"
   },
