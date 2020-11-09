@@ -5,7 +5,7 @@
   "author": "Vista1nik",
   "description": "Unofficial Google Docs app.",
   "dependencies": {
-    "eslint": "^5.4.0",
+    "eslint": "^7.13.0",
     "mocha": "^5.2.0",
     "spectron": "^3.8.0"
   },
